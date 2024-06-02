@@ -1,0 +1,427 @@
+@media(max-width: 1774px) {
+    .quem-sou{
+        width: 500px;
+        margin: 100px 0px 0px 800px;
+    }
+
+    .img-quem-sou .imagem-quem-sou{
+        width: 500px;
+        height: 500px;
+    }
+
+    .hobbies{
+        margin: 100px 0px 0px 50px;
+    }
+
+    .img-hobbies{
+        width: 600px;
+        height: 550px;
+    }
+
+    .img-hobbies .imagem-hobbies{
+        width: 600px;
+        height: 550px;
+        margin: 0px 0px 0px 0px;
+    }
+
+    .quem-sou .texto-quem-sou{
+        width: 500px;
+    }
+
+    .habilidades{
+        margin: 100px 0px 0px 800px;
+    }
+
+    .img-habilidades{
+        width: 500px;
+        height: 500px;
+    }
+
+    .img-habilidades .imagem-habilidades{
+        width: 500px;
+        height: 500px;
+    }
+
+    .habilidades .texto-habilidades{
+        width: 600px;
+        height: 300px;
+    }
+}
+
+@media(max-width: 1615px) {
+    .img-hobbies {
+        width: 500px;
+        height: 500px;
+    }
+
+    .img-hobbies .imagem-hobbies {
+        width: 500px;
+        height: 500px;
+        margin: 30px 0px 0px 0px;
+    }
+}
+
+@media(max-width: 1564px) {
+    .quem-sou .titulo-quem-sou{
+        font-size: 50px;
+    }
+
+    .hobbies .titulo-hobbies{
+        font-size: 50px;
+    }
+
+    .habilidades .titulo-habilidades{
+        font-size: 50px;
+    }
+
+    .habilidades .texto-habilidades{
+        font-size: 30px;
+    }
+
+    .habilidades{
+        width: 500px;
+        height: 700px;
+        margin: 50px 0px 0px 700px;
+    }
+}
+
+@media(max-width: 1514px) {
+    .img-quem-sou{
+        margin: 50px 0px 0px 100px;
+        width: 500px;
+        height: 500px;
+    }
+
+    .quem-sou{
+        margin: 10px 0px 0px 800px;
+        height: 600px;
+    }
+
+    .quem-sou .titulo-quem-sou{
+        font-size: 45px;
+        margin: 100px 0px 0px 0px;
+    }
+
+    .quem-sou .texto-quem-sou{
+        font-size: 27px;
+        margin: 200px 0px 0px 0px;
+    }
+
+    .hobbies {
+        height: 600px;
+        margin: 100px 0px 0px 50px;
+    }
+
+    .hobbies .titulo-hobbies{
+        font-size: 45px;
+    }
+
+    .hobbies .texto-hobbies{
+        font-size: 27px;
+    }
+
+    .img-hobbies{
+        width: 500px;
+        height: 500px;
+        margin: 100px 0px 100px 850px;
+    }
+
+    .habilidades .titulo-habilidades{
+        font-size: 45px;
+    }
+
+    .habilidades .texto-habilidades{
+        font-size: 27px;
+    }
+}
+
+@media(max-width: 1364px) {
+    .hobbies{
+        width: 100%;
+        justify-content: center;
+        margin: 50px 0px 0px 0px;
+    }
+
+    .hobbies .texto-hobbies{
+        width: 900px;
+        text-align: center;
+    }
+
+    .img-hobbies{
+        margin: 400px 0px 100px 400px;
+    }
+}
+
+@media(max-width: 1314px) {
+    .quem-sou{
+        width: 100%;
+        justify-content: center;
+        margin: 50px 0px 500px 0px;
+    }
+
+    .quem-sou .texto-quem-sou{
+        width: 900px;
+        text-align: center;
+    }
+
+    .img-quem-sou {
+        margin: 500px 0px 0px 400px;
+    }
+
+    .habilidades{
+        width: 100%;
+        justify-content: center;
+        margin: 50px 0px 400px 0px;
+    }
+
+    .habilidades .texto-habilidades{
+        width: 900px;
+        text-align: center;
+    }
+
+    .img-habilidades{
+        margin: 500px 0px 0px 400px;
+    }
+}
+
+@media (max-width: 1125px) {
+    .img-quem-sou {
+        margin: 500px 0px 0px 300px;
+    }
+
+    .img-hobbies {
+        margin: 400px 0px 100px 300px;
+    }
+
+    .img-habilidades{
+        margin: 500px 0px 0px 300px;
+    }
+}
+
+@media (max-width: 950px) {
+    .img-quem-sou {
+        margin: 500px 0px 0px 200px;
+    }
+
+    .img-hobbies {
+        margin: 400px 0px 100px 200px;
+    }
+
+    .img-habilidades{
+        margin: 500px 0px 0px 200px;
+    }
+}
+
+@media (max-width: 730px) {
+    .img-quem-sou {
+        margin: 500px 0px 0px 100px;
+    }
+
+    .img-hobbies {
+        margin: 500px 0px 100px 100px;
+    }
+
+    .img-habilidades{
+        margin: 500px 0px 0px 100px;
+    }
+}
+
+@media(max-width: 615px) {
+    .img-quem-sou {
+        margin: 500px 0px 0px 50px;
+    }
+
+    .img-hobbies {
+        margin: 500px 0px 100px 50px;
+    }
+
+    .img-habilidades{
+        margin: 500px 0px 0px 50px;
+    }
+}
+
+@media(max-width: 565px) {
+    .img-quem-sou {
+        margin: 500px 0px 0px 20px;
+    }
+
+    .img-hobbies {
+        margin: 500px 0px 100px 20px;
+    }
+
+    .img-habilidades{
+        margin: 500px 0px 0px 20px;
+    }
+}
+
+@media(max-width: 535px) {
+    .img-quem-sou {
+        margin: 600px 0px 0px 80px;
+        width: 350px;
+        height: 350px;
+    }
+
+    .img-hobbies {
+        margin: 600px 0px 100px 80px;
+        width: 350px;
+        height: 350px;
+    }
+
+    .img-habilidades{
+        margin: 650px 0px 0px 80px;
+        width: 350px;
+        height: 350px;
+    }
+
+    .img-quem-sou  .imagem-quem-sou{
+        width: 350px;
+        height: 350px;
+    }
+
+    .img-hobbies .imagem-hobbies{
+        width: 350px;
+        height: 350px;
+    }
+
+    .img-habilidades .imagem-habilidades{
+        width: 350px;
+        height: 350px;
+    }
+}
+
+@media(max-width: 444px) {
+    .quem-sou .titulo-quem-sou{
+        font-size: 30px;
+    }
+
+    .hobbies .titulo-hobbies{
+        font-size: 30px;
+    }
+
+    .habilidades .titulo-habilidades{
+        font-size: 30px;
+    }
+
+    .quem-sou .texto-quem-sou{
+        font-size: 20px
+    }
+
+    .hobbies .texto-hobbies {
+        font-size: 20px;
+    }
+
+    .habilidades .texto-habilidades{
+        font-size: 20px;
+    }
+
+    .img-quem-sou {
+        margin: 650px 0px 0px 30px;
+    }
+
+    .img-hobbies {
+        margin: 600px 0px 100px 30px;
+    }
+
+    .img-habilidades{
+        margin: 650px 0px 0px 30px;
+    }
+}
+
+@media(max-width: 395px) {
+    .img-quem-sou {
+        margin: 650px 0px 0px 10px;
+    }
+
+    .img-hobbies {
+        margin: 600px 0px 100px 10px;
+    }
+
+    .img-habilidades{
+        margin: 650px 0px 0px 10px;
+    }
+
+    .botao .info-botao{
+        font-size: 18px;
+    }
+}
+
+@media(max-width: 375px) {
+    .img-quem-sou {
+        margin: 600px 0px 0px 40px;
+        width: 250px;
+        height: 350px;
+    }
+
+    .img-hobbies {
+        margin: 600px 0px 100px 40px;
+        width: 250px;
+        height: 250px;
+    }
+
+    .img-habilidades{
+        margin: 650px 0px 0px 40px;
+        width: 250px;
+        height: 250px;
+    }
+
+    .img-quem-sou  .imagem-quem-sou{
+        width: 250px;
+        height: 250px;
+    }
+
+    .img-hobbies .imagem-hobbies{
+        width: 250px;
+        height: 250px;
+    }
+
+    .img-habilidades .imagem-habilidades{
+        width: 250px;
+        height: 250px;
+    }
+}
+
+@media(max-width: 305px) {
+    .img-quem-sou {
+        margin: 650px 0px 0px 20px;
+    }
+
+    .img-hobbies {
+        margin: 600px 0px 100px 20px;
+    }
+
+    .img-habilidades{
+        margin: 650px 0px 0px 20px;
+    }
+}
+
+@media(max-width: 285px) {
+    .img-quem-sou {
+        margin: 650px 0px 0px 10px;
+    }
+
+    .img-hobbies {
+        margin: 600px 0px 100px 10px;
+    }
+
+    .img-habilidades{
+        margin: 650px 0px 0px 10px;
+    }
+
+    .botao .info-botao {
+        font-size: 15px;
+    }
+}
+
+@media (max-width: 275px) {
+    .img-quem-sou {
+        margin: 650px 0px 0px 5px;
+    }
+
+    .img-hobbies {
+        margin: 600px 0px 100px 5px;
+    }
+
+    .img-habilidades{
+        margin: 650px 0px 0px 5px;
+    }
+}
